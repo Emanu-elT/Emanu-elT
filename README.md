@@ -27,13 +27,9 @@ Olá! Eu sou o Emanuel — desenvolvedor web focado em JavaScript, HTML e CSS. A
 - Versionamento com Git / GitHub
 
 ---
-
 ## 🚀 Projetos em destaque
 
-- Projeto 1 — descrição curta. Link: https://github.com/Emanu-elT/REPO1
-- Projeto 2 — descrição curta. Link: https://github.com/Emanu-elT/REPO2
-
-(Dica: substitua os exemplos acima pelos seus repositórios reais. Adicione screenshots ou GIFs pequenos para cada projeto.)
+- Projeto 1 — Java. Link: https://github.com/Emanu-elT/Devtitans
 
 ---
 
